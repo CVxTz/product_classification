@@ -36,6 +36,10 @@ Run Jupyterlab
 jupyter-lab
 ```
 
+## Data
+
+Download the data files `data_test.csv` and `data_train.csv` into the `./data` folder.
+
 ## Notebooks
 
 The data exploration and training/evaluation notebooks are in `./notebooks`
