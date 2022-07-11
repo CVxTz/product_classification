@@ -1,6 +1,6 @@
 # product_classification
 
-In this project, we will try to classify products into 101 classes. Each product is represented as a list of 128 anonymize features.
+In this project, we will try to classify products into 101 classes. Each product is represented as a list of 128 anonymized features.
 
 ## Env setup
 
